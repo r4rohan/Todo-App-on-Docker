@@ -1,8 +1,6 @@
 # Docker Node MongoDB Example
 
-> Simple example of a dockerized Node/Mongo app
-
-## Quick Start
+> Todo App with Docker
 
 ```bash
 # Run in Docker
